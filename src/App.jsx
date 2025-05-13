@@ -1,6 +1,10 @@
 // import Todo from "./components/Todo"
 
-import TodoReducer from "./components/TodoReducer"
+import TodoReducer2 from "./components/TodoReducer2"
+
+// import Todo13 from "./components/Todo13"
+// import Todo13ref from "./components/Todo13ref"
+// import TodoReducer from "./components/TodoReducer"
 
 // import TodoRef from "./components/TodoRef"
 
@@ -12,7 +16,10 @@ function App() {
     <>
      {/* <Todo/> */}
      {/* <TodoRef/> */}
-     <TodoReducer/>
+     {/* <TodoReducer/> */}
+     {/* <Todo13/> */}
+     {/* <Todo13ref/> */}
+     <TodoReducer2/>
     </>
   )
 }
